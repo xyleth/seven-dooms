@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: 
+draft: false
+tags: 
+publish: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to the journal for our game of Seven Dooms for Sandpoint, an official adventure path in the Pathfinder 2e universe!
+
